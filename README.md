@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/isharizh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/isharizh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
@@ -43,3 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/isharizh/Leetcode/tree/master/0014-longest-common-prefix) |
