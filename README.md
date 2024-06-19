@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/isharizh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 # Binary Search
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/isharizh/Leetcode/tree/master/0011-container-with-most-water) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # Stack
 |  |
 | ------- |
@@ -68,3 +71,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+# Math
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+# Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
