@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/isharizh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Hash Table
 |  |
@@ -79,9 +80,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 # Game Theory
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
