@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/isharizh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 # Binary Search
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/isharizh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/isharizh/Leetcode/tree/master/0125-valid-palindrome) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Greedy
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Prefix Sum
 |  |
 | ------- |
