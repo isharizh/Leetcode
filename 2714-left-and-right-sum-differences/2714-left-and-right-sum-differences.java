@@ -21,7 +21,6 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             ans[i] = Math.abs(lsum[i]-rsum[i]);
         }
-        System.gc();
         return ans;
     }
 }
