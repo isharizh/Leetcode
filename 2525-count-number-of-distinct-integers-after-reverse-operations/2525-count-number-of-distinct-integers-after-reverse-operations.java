@@ -1,6 +1,5 @@
 class Solution {
     public int countDistinctIntegers(int[] nums) {
-        int n=nums.length;
         int count=0;
         boolean arr[]=new boolean[1000001];
         for(int num:nums){
