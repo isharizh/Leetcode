@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/isharizh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 # Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 # Dynamic Programming
 |  |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 # Math
 |  |
