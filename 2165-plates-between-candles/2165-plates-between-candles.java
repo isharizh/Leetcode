@@ -1,48 +1,37 @@
-
 class Solution {
     public int[] platesBetweenCandles(String s, int[][] queries) {
-        int n = s.length();
-        int[] res = new int[queries.length];
-        
-        // Step 1: Identify the positions of all candles
-        List<Integer> candlePositions = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) == '|') {
-                candlePositions.add(i);
-            }
+        int[] fright = new int[s.length()];
+        int[] fleft = new int[s.length()];
+        char[] arr = s.toCharArray();
+        int candles = -1;
+        int stars = 0;
+        int[] starCount = new int[s.length()];
+        for(int i = 0; i < arr.length; i++){
+            char c = arr[i];
+            if(c == '*')
+                stars++;
+            if(c == '|')
+                candles = i;
+            fleft[i] = candles;
+            starCount[i] = stars;
         }
-
-        // Step 2: Create a prefix sum array for plates
-        int[] prefixSum = new int[n];
-        int plates = 0;
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) == '*') {
-                plates++;
-            }
-            prefixSum[i] = plates;
+        candles = -1;
+        for(int i = arr.length - 1; i >= 0; i--){
+            char c = arr[i];
+            if(c == '|')
+                candles = i;
+            fright[i] = candles;
         }
-
-        // Step 3: Process each query
-        for (int i = 0; i < queries.length; i++) {
-            int left = queries[i][0];
-            int right = queries[i][1];
-            
-            // Use binary search to find the leftmost and rightmost candles within the range
-            int leftCandle = Collections.binarySearch(candlePositions, left);
-            int rightCandle = Collections.binarySearch(candlePositions, right);
-            
-            if (leftCandle < 0) leftCandle = -leftCandle - 1;
-            if (rightCandle < 0) rightCandle = -rightCandle - 2;
-            
-            if (leftCandle < candlePositions.size() && rightCandle >= 0 && candlePositions.get(leftCandle) <= candlePositions.get(rightCandle)) {
-                int l = candlePositions.get(leftCandle);
-                int r = candlePositions.get(rightCandle);
-                res[i] = prefixSum[r] - prefixSum[l];
-            } else {
-                res[i] = 0;
+        int[] result= new int[queries.length];
+        for(int i = 0; i < queries.length; i++){
+            int leftWall = fright[queries[i][0]];
+            int rightWall = fleft[queries[i][1]];
+            if(leftWall == -1 || rightWall == -1 || leftWall >= rightWall){
+                result[i] = 0;
+                continue;
             }
+            result[i] = starCount[rightWall] - starCount[leftWall];
         }
-        
-        return res;
+        return result;
     }
 }
