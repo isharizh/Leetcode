@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Trie
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
 |  |
 | ------- |
