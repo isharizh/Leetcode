@@ -6,7 +6,7 @@ class Solution {
             index = 0;
         } else if (ruleKey.equals("color")) {
             index = 1;
-        } else if (ruleKey.equals("name")) {
+        } else{
             index = 2;
         }
         for (List<String> item: items) {
