@@ -107,12 +107,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
+| [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/isharizh/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 # Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # Combinatorics
 |  |
@@ -126,3 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/isharizh/Leetcode/tree/master/0278-first-bad-version) |
+# Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
