@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -132,3 +133,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
+# Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
