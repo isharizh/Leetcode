@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/isharizh/Leetcode/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Greedy
 |  |
 | ------- |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Stack
 |  |
 | ------- |
