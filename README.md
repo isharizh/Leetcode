@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/isharizh/Leetcode/tree/master/0278-first-bad-version) |
 | [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Two Pointers
@@ -118,3 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/isharizh/Leetcode/tree/master/0278-first-bad-version) |
