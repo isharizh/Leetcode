@@ -2,10 +2,10 @@ class Solution {
     public int minMovesToSeat(int[] seats, int[] students) {
         Arrays.sort(seats);
         Arrays.sort(students);
-        int count = 0;
+        int c = 0;
         for(int i=0;i<seats.length;i++){
-            count = count + (Math.abs(students[i]-seats[i]));
+            c += (Math.abs(students[i]-seats[i]));
         }
-        return count;
+        return c;
     }
 }
