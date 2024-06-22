@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Trie
 |  |
@@ -144,3 +145,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+# Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
