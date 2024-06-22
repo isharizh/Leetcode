@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/isharizh/Leetcode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/isharizh/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/isharizh/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/isharizh/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/isharizh/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/isharizh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/isharizh/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/isharizh/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
