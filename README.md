@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/isharizh/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/isharizh/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/isharizh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/isharizh/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/isharizh/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Trie
 |  |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Prefix Sum
@@ -158,3 +161,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
