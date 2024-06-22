@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/isharizh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/isharizh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 # Trie
 |  |
