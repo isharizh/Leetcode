@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/isharizh/Leetcode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/isharizh/Leetcode/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/isharizh/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/isharizh/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/isharizh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/isharizh/Leetcode/tree/master/0649-dota2-senate) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/isharizh/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/isharizh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -168,4 +170,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0649-dota2-senate](https://github.com/isharizh/Leetcode/tree/master/0649-dota2-senate) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
