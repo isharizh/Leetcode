@@ -13,6 +13,7 @@ class Solution {
                 count +=2;
             }
         }
+        System.gc();
         return swap;
     }
 }
