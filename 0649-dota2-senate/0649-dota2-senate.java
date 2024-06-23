@@ -1,24 +1,30 @@
 class Solution {
     public String predictPartyVictory(String senate) {
-        Queue<Integer>r=new LinkedList<>();
-        Queue<Integer>d=new LinkedList<>();
-        int n=senate.length();
-        for(int i=0;i<senate.length();i++){
-            if(senate.charAt(i)=='R')    r.add(i);
-            else   d.add(i);
-        }
-        while(!r.isEmpty()&&!d.isEmpty()){
-            int ridx=r.peek();
-            int didx=d.peek();
-            r.poll();
-            d.poll();
-            if(ridx<didx){
-                r.add(ridx+n);
+        char[] charArray = senate.toCharArray();
+        return votingRound(charArray, 0);
+    }
+
+    private String votingRound(char[] charArray, int lead) {
+        int r = 0, d = 0;
+        for (int i = 0; i < charArray.length; i++) {
+            if (charArray[i] == 'R') {
+                if (lead>=0) {
+                    r++;
+                } else {
+                    charArray[i] = '0';
+                }
+                lead++;
+            } else if (charArray[i] == 'D') {
+                if (lead <= 0) {
+                    d++;
+                } else {
+                    charArray[i] = '0';
+                }
+                lead--;
             }
-            else{
-                d.add(didx+n);
-            }
         }
-        return r.isEmpty() ? "Dire" : "Radiant";
+        if (r!=0 && d == 0) return "Radiant";
+        if (r==0 && d!=0) return "Dire";
+        return votingRound(charArray, lead);
     }
 }
