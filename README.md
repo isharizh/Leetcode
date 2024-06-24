@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/isharizh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [1039-find-the-town-judge](https://github.com/isharizh/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/isharizh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1675-magnetic-force-between-two-balls](https://github.com/isharizh/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [1039-find-the-town-judge](https://github.com/isharizh/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/isharizh/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 # Sorting
@@ -172,3 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/isharizh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/isharizh/Leetcode/tree/master/0649-dota2-senate) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/isharizh/Leetcode/tree/master/1039-find-the-town-judge) |
