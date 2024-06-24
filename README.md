@@ -178,15 +178,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/isharizh/Leetcode/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/isharizh/Leetcode/tree/master/1039-find-the-town-judge) |
 # Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/isharizh/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/isharizh/Leetcode/tree/master/0207-course-schedule) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/isharizh/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/isharizh/Leetcode/tree/master/0207-course-schedule) |
 # Union Find
 |  |
 | ------- |
@@ -195,3 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/isharizh/Leetcode/tree/master/0200-number-of-islands) |
+# Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/isharizh/Leetcode/tree/master/0207-course-schedule) |
