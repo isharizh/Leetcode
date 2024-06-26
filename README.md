@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/isharizh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/isharizh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/isharizh/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/isharizh/Leetcode/tree/master/0200-number-of-islands) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/isharizh/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
 # Recursion
 |  |
