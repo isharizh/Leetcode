@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/isharizh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/isharizh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/isharizh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/isharizh/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/isharizh/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2165-plates-between-candles](https://github.com/isharizh/Leetcode/tree/master/2165-plates-between-candles) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/isharizh/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/isharizh/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 # Game Theory
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/isharizh/Leetcode/tree/master/0260-single-number-iii) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/isharizh/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Recursion
 |  |
