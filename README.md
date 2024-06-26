@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/isharizh/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/isharizh/Leetcode/tree/master/0292-nim-game) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/isharizh/Leetcode/tree/master/0260-single-number-iii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Recursion
 |  |
 | ------- |
