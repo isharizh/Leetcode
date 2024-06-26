@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/isharizh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/isharizh/Leetcode/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/isharizh/Leetcode/tree/master/0260-single-number-iii) |
 | [0829-subdomain-visit-count](https://github.com/isharizh/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1039-find-the-town-judge](https://github.com/isharizh/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1505-create-target-array-in-the-given-order](https://github.com/isharizh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/isharizh/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/isharizh/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/isharizh/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/isharizh/Leetcode/tree/master/0260-single-number-iii) |
 # Recursion
 |  |
 | ------- |
