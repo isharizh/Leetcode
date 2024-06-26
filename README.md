@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/isharizh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/isharizh/Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/isharizh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/isharizh/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/isharizh/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/isharizh/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/isharizh/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2621-find-xor-beauty-of-array](https://github.com/isharizh/Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/isharizh/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 # Game Theory
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/isharizh/Leetcode/tree/master/0260-single-number-iii) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/isharizh/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/isharizh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/isharizh/Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 # Recursion
 |  |
 | ------- |
