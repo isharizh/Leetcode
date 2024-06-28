@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/isharizh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/isharizh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/isharizh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/isharizh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/isharizh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/isharizh/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/isharizh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/isharizh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/isharizh/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/isharizh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Hash Table
@@ -228,4 +230,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/isharizh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/isharizh/Leetcode/tree/master/0051-n-queens) |
