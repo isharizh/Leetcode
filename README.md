@@ -235,3 +235,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/isharizh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/isharizh/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/isharizh/Leetcode/tree/master/0078-subsets) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
+<!---LeetCode Topics End-->
