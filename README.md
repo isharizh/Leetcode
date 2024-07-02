@@ -257,10 +257,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,4 +271,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
