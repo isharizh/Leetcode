@@ -258,18 +258,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1254-deepest-leaves-sum](https://github.com/isharizh/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1254-deepest-leaves-sum](https://github.com/isharizh/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/isharizh/Leetcode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/isharizh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/isharizh/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1254-deepest-leaves-sum](https://github.com/isharizh/Leetcode/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
