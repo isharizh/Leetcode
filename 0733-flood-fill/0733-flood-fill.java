@@ -4,7 +4,6 @@ class Solution {
             return image;
         }
         dfs(image, sr, sc, image[sr][sc], color);
-        System.gc();
         return image;
     }
 
