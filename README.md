@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/isharizh/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/isharizh/Leetcode/tree/master/0733-flood-fill) |
+| [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2103-find-all-groups-of-farmland](https://github.com/isharizh/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 ## Math
 |  |
@@ -306,8 +307,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
