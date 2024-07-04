@@ -1,20 +1,16 @@
 class Solution {
-    public int[] getSumAbsoluteDifferences(int[] arr) {
-        int size=arr.length;
-        int pre_fix[] = new int[size];
-        for(int i=size-1;i>=0;i--){
-            if(i==size-1){
-                pre_fix[i]=arr[i];
-            }
-            else pre_fix[i]=arr[i]+pre_fix[i+1];
+    public int[] getSumAbsoluteDifferences(int[] nums) {
+        int[] arr = new int[nums.length];
+        int sum = 0;
+        for(int i = 0;i<nums.length;i++){
+            sum += nums[i];
         }
-        int ans[] = new int[size];
-        for(int i=0;i<size;i++){
-           int left=Math.abs(i*arr[i]-(pre_fix[0]-pre_fix[i]));
-           int right=Math.abs((size-i-1)*arr[i]-(pre_fix[i]-arr[i]));
-           ans[i]=left+right;
+        int c = nums.length;
+        for(int i = 0;i<nums.length;i++){
+            arr[i] = sum - c * nums[i];
+            sum = sum - 2 * nums[i];
+            c -=2;
         }
-        return ans;
-        
+        return arr;
     }
 }
