@@ -1,15 +1,12 @@
 class Solution {
     public String makeSmallestPalindrome(String s) {
-        char arr[] = s.toCharArray();
-        int n = arr.length-1;
-        int i=0;
-        while(i<=n){
-            if(arr[i]<arr[n]){
-                arr[n--] = arr[i++];
-            }else{
-                arr[i++] = arr[n--];
-            }
+        char[] chars = s.toCharArray();
+        int l = 0;
+        int r = chars.length - 1;
+        while(l < r) {
+            int min = Math.min(chars[l],chars[r]);
+            chars[l++] = chars[r--] = (char)min;
         }
-        return new String(arr);
+        return new String(chars);
     }
 }
