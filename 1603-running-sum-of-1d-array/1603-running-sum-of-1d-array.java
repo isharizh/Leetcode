@@ -8,7 +8,6 @@ class Solution {
         for(int i=1;i<nums.length;i++){
             arr[i] = arr[i-1] + nums[i];
         }
-        System.gc();
         return arr;
     }
 }
