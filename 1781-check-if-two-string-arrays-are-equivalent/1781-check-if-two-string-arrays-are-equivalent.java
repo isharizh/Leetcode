@@ -1,6 +1,6 @@
 class Solution {
     public String join(String[] arr){
-        StringBuffer str1 = new StringBuffer();
+        StringBuilder str1 = new StringBuilder();
         for(String s : arr){
             str1.append(s);
         }
