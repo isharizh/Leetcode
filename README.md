@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/isharizh/Leetcode/tree/master/0733-flood-fill) |
 | [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Geometry
 |  |
