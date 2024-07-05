@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2887-sort-vowels-in-a-string](https://github.com/isharizh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
@@ -368,5 +369,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/isharizh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
