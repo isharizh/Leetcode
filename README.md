@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Union Find
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
