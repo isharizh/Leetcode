@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/isharizh/Leetcode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/isharizh/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1651-shuffle-string](https://github.com/isharizh/Leetcode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/isharizh/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
