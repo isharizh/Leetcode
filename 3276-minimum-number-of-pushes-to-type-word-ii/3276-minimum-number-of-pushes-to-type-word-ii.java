@@ -1,22 +1,16 @@
 class Solution {
     public int minimumPushes(String word) {
-        int ct[] = new int[26];
-        for(char ch: word.toCharArray()){
-            ct[ch-'a']++;
-        }
+        int arr[] = new int[26];
+		for (char ch : word.toCharArray()) {
+			arr[ch - 'a']--;
+		}
         
-		// sort the array in descending order
-        ct = Arrays.stream(ct).boxed()
-            .sorted(Collections.reverseOrder())
-            .mapToInt(Integer::intValue)
-            .toArray();
         
-        int res = 0;
-        for(int i=0; i<26; i++){
-            int val = (i)/8;
-            int curr = (val+1)*ct[i];
-            res += curr;
-        }
-        return res;
+		Arrays.sort(arr);
+        int count=0;
+		for (int i = 0; i < 26; i++) {
+			count -= arr[i] * (i / 8 + 1);
+		}
+		return count;
     }
 }
