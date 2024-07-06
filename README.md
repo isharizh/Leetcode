@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2103-find-all-groups-of-farmland](https://github.com/isharizh/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
 | ------- |
@@ -378,4 +380,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/isharizh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
