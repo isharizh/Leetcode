@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/isharizh/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/isharizh/Leetcode/tree/master/0733-flood-fill) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1603-running-sum-of-1d-array](https://github.com/isharizh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -386,13 +388,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
