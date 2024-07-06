@@ -1,16 +1,30 @@
 class Solution {
     public int garbageCollection(String[] garbage, int[] travel) {
-        int count =0;
-        boolean m=false,g=false,p=false;
-        for(int i=garbage.length-1;i>=0;i--){
-            count +=garbage[i].length();
-            if(!m) m=garbage[i].contains("M");
-            if(!g) g=garbage[i].contains("G");
-            if(!p) p=garbage[i].contains("P");
-            if(i>0){
-                count += travel[i-1]*((m?1:0)+(p?1:0)+(g?1:0));
-            }
+        int t = 0;
+        for(int i=0;i<travel.length;i++){
+            t += 3*travel[i];
         }
-        return count;
+        for(String s : garbage){
+            t += s.length();
+        }
+        for(int i = garbage.length-1 ; i>0;i--){
+            if(!garbage[i].contains("G")){
+                t -= travel[i-1];
+            }else
+                break;
+        }
+         for(int i = garbage.length-1 ; i>0;i--){
+            if(!garbage[i].contains("P")){
+                t -= travel[i-1];
+            }else
+                break;
+        }
+         for(int i = garbage.length-1 ; i>0;i--){
+            if(!garbage[i].contains("M")){
+                t -= travel[i-1];
+            }else
+                break;
+        }
+        return t;
     }
 }
