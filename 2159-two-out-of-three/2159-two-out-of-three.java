@@ -1,37 +1,28 @@
 class Solution {
-    public static boolean contains(int[] arr, int number) {
-        for (int n : arr) {
-            if (n == number) {
-                return true;
-            }
-        }
-        return false;
-    }
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
-        int ans = 0;
-        List<Integer> list = new ArrayList<>();
-        for(int i=0;i<nums1.length;i++){
-            if((contains(nums2, nums1[i])) || (contains(nums3, nums1[i]))){
-                if(!list.contains(nums1[i])){
-                    list.add(nums1[i]);
-                }
-            }
+        boolean[] b1 = new boolean[101];
+        boolean[] b2 = new boolean[101];
+        boolean[] b3 = new boolean[101];
+        for (int i : nums1){
+            b1[i] = true;
+        }
+        for (int i : nums2) {
+            b2[i] = true;
+        }
+        for (int i : nums3) {
+            b3[i] = true;
         }
 
-        for(int i=0;i<nums2.length;i++){
-            if((contains(nums1, nums2[i])) || (contains(nums3, nums2[i]))){
-                if(!list.contains(nums2[i])){
-                    list.add(nums2[i]);
-                }
+        List<Integer> result = new ArrayList<>();
+
+        for (int i = 1; i < 101; i++) {
+            boolean first = b1[i] && b2[i];
+            boolean second = b2[i] && b3[i];
+            boolean third = b1[i] && b3[i];
+            if (first || second || third){
+                result.add(i);
             }
         }
-        for(int i=0;i<nums3.length;i++){
-            if((contains(nums1, nums3[i])) || (contains(nums2,nums3[i]))){
-                if(!list.contains(nums3[i])){
-                    list.add(nums3[i]);
-                }
-            }
-        }
-        return list;
+        return result;
     }
 }
