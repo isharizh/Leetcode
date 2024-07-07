@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2103-find-all-groups-of-farmland](https://github.com/isharizh/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2159-two-out-of-three](https://github.com/isharizh/Leetcode/tree/master/2159-two-out-of-three) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/isharizh/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/isharizh/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Math
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/isharizh/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/isharizh/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Prefix Sum
 |  |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/isharizh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/isharizh/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
 | ------- |
