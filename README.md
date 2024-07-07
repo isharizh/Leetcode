@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1642-water-bottles](https://github.com/isharizh/Leetcode/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
@@ -400,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/isharizh/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
