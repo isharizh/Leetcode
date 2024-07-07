@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2103-find-all-groups-of-farmland](https://github.com/isharizh/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2159-two-out-of-three](https://github.com/isharizh/Leetcode/tree/master/2159-two-out-of-three) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/isharizh/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/isharizh/Leetcode/tree/master/2159-two-out-of-three) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2159-two-out-of-three](https://github.com/isharizh/Leetcode/tree/master/2159-two-out-of-three) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
