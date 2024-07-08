@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/isharizh/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/isharizh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2103-find-all-groups-of-farmland](https://github.com/isharizh/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2159-two-out-of-three](https://github.com/isharizh/Leetcode/tree/master/2159-two-out-of-three) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/isharizh/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-minimum-time-visiting-all-points](https://github.com/isharizh/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1642-water-bottles](https://github.com/isharizh/Leetcode/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/isharizh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/isharizh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/isharizh/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/isharizh/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/isharizh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/isharizh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -417,4 +420,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/isharizh/Leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/isharizh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/isharizh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
