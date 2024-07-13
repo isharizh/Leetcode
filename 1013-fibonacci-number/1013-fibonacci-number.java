@@ -14,6 +14,7 @@ class Solution {
         for(int i=0;i<=n;i++){
             dp[i] = -1;
         }
+        System.gc();
         return fibo(n, dp);
     }
 }
