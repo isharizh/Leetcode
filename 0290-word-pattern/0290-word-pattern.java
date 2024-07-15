@@ -5,7 +5,6 @@ class Solution {
             return false;
         }
         HashMap<Character,  String> ctw = new HashMap<>();
-        HashMap<String, Character> wtc = new HashMap<>();
 
         for(int i=0;i<pattern.length();i++){
             char c = pattern.charAt(i);
@@ -16,11 +15,10 @@ class Solution {
                     return false;
                 }
             }else{
-                if(wtc.containsKey(word)){
+                if(ctw.containsValue(word)){
                     return false;
                 }
                 ctw.put(c, word);
-                wtc.put(word, c);
             }
         }
         return true;
