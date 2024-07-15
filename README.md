@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/isharizh/Leetcode/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/isharizh/Leetcode/tree/master/1651-shuffle-string) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/isharizh/Leetcode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
