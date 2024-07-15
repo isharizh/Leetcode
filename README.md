@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/isharizh/Leetcode/tree/master/0204-count-primes) |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/isharizh/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/isharizh/Leetcode/tree/master/0733-flood-fill) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/isharizh/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Two Pointers
 |  |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/isharizh/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -394,12 +397,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/isharizh/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/isharizh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/isharizh/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/isharizh/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -440,4 +445,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/isharizh/Leetcode/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/isharizh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
