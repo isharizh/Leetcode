@@ -1,11 +1,11 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
+        HashMap<Character,  String> ctw = new HashMap<>();
         String[] words = s.split(" ");
+        
         if(words.length!= pattern.length()){
             return false;
         }
-        HashMap<Character,  String> ctw = new HashMap<>();
-
         for(int i=0;i<pattern.length();i++){
             char c = pattern.charAt(i);
             String word = words[i];
