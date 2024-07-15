@@ -1,32 +1,31 @@
-import java.util.Map.Entry;
 class Solution {
-    public static int[] topKFrequent(int[] nums, int k) {
-        // Frequency map to count the occurrences of each element
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
-        for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+    public int[] topKFrequent(int[] nums, int k) {
+        int[] buckets = new int[20001];
+        int lb = 10000;
+        for (var n : nums) {
+            buckets[lb+n]++;
         }
 
-
-        PriorityQueue<Entry<Integer, Integer>> minHeap = new PriorityQueue<>(
-                (a, b) -> a.getValue() - b.getValue()
-        );
-
-        // Iterate through the frequency map
-        for (Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
-            minHeap.add(entry);
-            if (minHeap.size() > k) {
-                minHeap.poll();
+        PriorityQueue<Map.Entry<Integer,Integer>> queue = new PriorityQueue<>(k, (e1,e2) -> e1.getValue().compareTo(e2.getValue()));
+        for (int i = 0; i < buckets.length; i++) {
+            var count = buckets[i];
+            if (count == 0) {
+                continue;
+            }
+            var num = i - lb;
+            if (queue.size() < k) {
+                queue.add(Map.entry(num, count));
+            } else if (queue.peek().getValue() < count) {
+                queue.remove();
+                queue.add(Map.entry(num, count));
             }
         }
 
-        // Extract the top k frequent elements from the min-heap
-        int[] topKElements = new int[k];
-        int index = 0;
-        while (!minHeap.isEmpty()) {
-            topKElements[index++] = minHeap.poll().getKey();
-        }
-
-        return topKElements;
+        int[] res = new int[k];
+        int c = 0;
+        for (var entry : queue) {
+            res[c++] = entry.getKey();
+        }        
+        return res;
     }
 }
