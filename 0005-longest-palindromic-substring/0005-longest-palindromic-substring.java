@@ -1,31 +1,25 @@
-public class Solution {
+class Solution {
+        private int start, maxLength;
+
     public String longestPalindrome(String s) {
-        if (s.length() <= 1) {
+            if (s.length() < 2) {
             return s;
         }
-
-        String maxStr = s.substring(0, 1);
-
         for (int i = 0; i < s.length() - 1; i++) {
-            String odd = expandFromCenter(s, i, i);
-            String even = expandFromCenter(s, i, i + 1);
-
-            if (odd.length() > maxStr.length()) {
-                maxStr = odd;
-            }
-            if (even.length() > maxStr.length()) {
-                maxStr = even;
-            }
+            extendPalindrome(s, i, i);  // Assume odd length
+            extendPalindrome(s, i, i + 1); // Assume even length
         }
-
-        return maxStr;
+        return s.substring(start, start + maxLength);
     }
 
-    private String expandFromCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+    private void extendPalindrome(String s, int j, int k) {
+        while (j >= 0 && k < s.length() && s.charAt(j) == s.charAt(k)) {
+            j--;
+            k++;
         }
-        return s.substring(left + 1, right);
+        if (maxLength < k - j - 1) {
+            start = j + 1;
+            maxLength = k - j - 1;
+        }
     }
 }
