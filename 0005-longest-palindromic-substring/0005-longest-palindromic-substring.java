@@ -12,7 +12,7 @@ class Solution {
         return s.substring(start, start + maxLength);
     }
 
-    private void extendPalindrome(String s, int j, int k) {
+    public void extendPalindrome(String s, int j, int k) {
         while (j >= 0 && k < s.length() && s.charAt(j) == s.charAt(k)) {
             j--;
             k++;
