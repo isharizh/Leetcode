@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/isharizh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/isharizh/Leetcode/tree/master/0290-word-pattern) |
 | [0399-evaluate-division](https://github.com/isharizh/Leetcode/tree/master/0399-evaluate-division) |
 | [0782-jewels-and-stones](https://github.com/isharizh/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/isharizh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/isharizh/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/isharizh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/isharizh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/isharizh/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/isharizh/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
