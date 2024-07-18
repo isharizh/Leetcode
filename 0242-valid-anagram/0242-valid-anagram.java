@@ -13,6 +13,7 @@ class Solution {
             }
             arr[c - 'a']--;
         }
+        System.gc();
         return true;
     }
 }
